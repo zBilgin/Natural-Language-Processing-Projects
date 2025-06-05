@@ -132,12 +132,11 @@ Bu klasör, çeşitli NLP görevlerinde kullanılan örnek veri setlerini içeri
 
 
 
-## 🚀 Kurulum ve Çalıştırma / Setup & Run  
+## 🚀 Kurulum / Setup 
 
 ```bash
-git clone https://github.com/zBilgin/REPO_ADI.git
-cd REPO_ADI
-pip install -r requirements.txt
+git clone https://github.com/zBilgin/Natural-Language-Processing-Projects.git
+
 ```
 
 ## Kullanım / Usage 🛠️
@@ -147,30 +146,6 @@ Python sürümü olarak **3.9 veya 3.10** uyumludur.
 
 I recommend using Anaconda Navigator and Spyder IDE for this project.  
 Python version **3.9 or 3.10** is recommended for compatibility.
-
----
-
-**🔧 Spyder Ortamında Çalıştırma (Anaconda Navigator ile) / Running on Spyder (via Anaconda Navigator)**
-
-**Türkçe:**  
-- Anaconda Navigator’ı açın.  
-- Sol menüden Environments (Ortamlar) sekmesine gidin.  
-- Yeni bir ortam oluşturmak için "Create" butonuna tıklayın.  
-- Ortama isim verin (örn: nlp_env), Python sürümünü seçin (örn: Python 3.10).  
-- Ortamı aktif edin.  
-- Üst menüden Spyder’ı başlatın.  
-- File > Open yoluyla `.py` dosyasını açın.  
-- Kodunuzu `Shift + Enter` veya "Run File" ile çalıştırın.
-
-**English:**  
-- Open Anaconda Navigator.  
-- Go to the Environments tab on the left menu.  
-- Click "Create" to make a new environment.  
-- Name the environment (e.g., nlp_env), select Python version (e.g., Python 3.10).  
-- Activate the environment.  
-- Launch Spyder from the top menu.  
-- Open a `.py` file via File > Open.  
-- Run the code with `Shift + Enter` or the "Run File" button.
 
 ---
 
@@ -184,17 +159,4 @@ conda install numpy pandas matplotlib scikit-learn
 >This repo is under active development. Contributions and feedback are welcome. <br>
 >Bu repo aktif olarak geliştirilmektedir. Geri bildirim ve katkılarınızı beklerim.
 
-Projeye katkı yapmak için:
-
-- Repoyu fork’layın.  
-- Yeni bir branch açın.  
-- Değişikliklerinizi yapıp commit edin.  
-- Pull request gönderin.
-
-To contribute:
-
-- Fork the repo.  
-- Create a new branch.  
-- Make changes and commit.  
-- Send a pull request.
 

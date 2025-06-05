@@ -1,0 +1,23 @@
+# Klasörleri hariç tut
+Kodlar_Verisetleri/
+Sunumlar/
+
+# Python cache ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+
+# Sanal ortam dosyaları
+env/
+venv/
+.venv/
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+
+# Python log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
