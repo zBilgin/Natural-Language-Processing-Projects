@@ -33,11 +33,11 @@ Course notes will be uploaded in the future.
 
 | No  | Klasör / Folder                                              | Açıklama / Description                                                               |
 | ----| ------------------------------------------------------------| -------------------------------------------------------------------------------------|
-| 01  | [01_02_Giriş_ve_Metin_Temsili_Uygulamaları]() | Giriş ve metin temsili ile ilgili uygulamalar / Intro & text representation applications |
-| 02  | [03_Olasılıksal_Dil_Modelleri_Uygulamaları]() | Olasılıksal dil modelleri uygulamaları / Probabilistic language model applications    |
-| 03  | [04_Derin_Öğrenme_Tabanlı_Modern_Dil_Modelleri]() | Derin öğrenme tabanlı modern dil modelleri / Deep learning based modern language models |
-| 04  | [05_Temel_NLP_Görevleri]()            | Temel NLP görevleri / Basic NLP tasks                                                |
-| 05  | [06_Gelişmiş_NLP_Görevleri]()      | Gelişmiş NLP görevleri / Advanced NLP tasks                                          |
+| 01  | [01_02_Giriş_ve_Metin_Temsili_Uygulamaları](./01_02_Giriş_ve_Metin_Temsili_Uygulamaları) | Giriş ve metin temsili ile ilgili uygulamalar / Intro & text representation applications |
+| 02  | [03_Olasılıksal_Dil_Modelleri_Uygulamaları](./03_Olasılıksal_Dil_Modelleri_Uygulamaları) | Olasılıksal dil modelleri uygulamaları / Probabilistic language model applications    |
+| 03  | [04_Derin_Öğrenme_Tabanlı_Modern_Dil_Modelleri](./04_Derin_Öğrenme_Tabanlı_Modern_Dil_Modelleri) | Derin öğrenme tabanlı modern dil modelleri / Deep learning based modern language models |
+| 04  | [05_Temel_NLP_Görevleri](./05_Temel_NLP_Görevleri)            | Temel NLP görevleri / Basic NLP tasks                                                |
+| 05  | [06_Gelişmiş_NLP_Görevleri](./06_Gelişmiş_NLP_Görevleri)      | Gelişmiş NLP görevleri / Advanced NLP tasks                                          |
 | 06  | [Datasets](./Datasets)                                        | Veri setleri / Datasets                                                              |
 
 
