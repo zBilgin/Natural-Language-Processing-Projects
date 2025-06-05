@@ -149,11 +149,6 @@ Python version **3.9 or 3.10** is recommended for compatibility.
 
 ---
 
-# 📌 Eksik kütüphaneler için / Missing libraries:
-
-```bash
-conda install numpy pandas matplotlib scikit-learn
-```
 
 ## 📌 Katkı / Contribution
 >This repo is under active development. Contributions and feedback are welcome. <br>
